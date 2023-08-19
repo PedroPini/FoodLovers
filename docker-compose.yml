@@ -7,4 +7,4 @@ services:
     volumes:
       - mongodbdata:/data/db
 volumes:
-  dbdata6:
+  mongodbdata:
